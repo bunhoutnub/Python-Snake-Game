@@ -13,6 +13,7 @@ Turtle Graphics (Turtle comes pre-installed with Python)
 
 # Getting Started
 Clone the repository:
+https://github.com/bunhoutnub/Python-Snake-Game.git
 
 # Play the game:
 Control the snake using the arrow keys on your keyboard.
